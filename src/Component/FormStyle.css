@@ -1,0 +1,11 @@
+.formZone{
+    margin: 20%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+input{
+    margin: 5px;
+}
